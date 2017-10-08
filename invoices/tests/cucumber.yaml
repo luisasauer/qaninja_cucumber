@@ -1,0 +1,11 @@
+# YAML Template
+
+---
+
+default: --format pretty -p html -p qa
+
+html: --format html --out=reports/result.html 
+json: --format json --out=reports/result.json
+dev: ENV_TYPE=dev
+qa: ENV_TYPE=qa
+uat: ENV_TYPE=uat

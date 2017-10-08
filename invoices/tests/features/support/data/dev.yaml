@@ -1,0 +1,10 @@
+url: https://ninjainvoices-dev.com.br
+user:
+  admin:
+    name: 'Developer User'
+    email: 'developer@qaninja.com.br'
+    password: 'test@123'
+  analyst:
+    name: 'Analyst User'
+    email: 'analyst@qaninja.com.br'
+    password: 'test@123'
